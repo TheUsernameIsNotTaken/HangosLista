@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Beszédes Lista</string>
+    <string name="welcome_user">Üdvözöllek Felhasználó!</string>
+    <string name="welcome">Üdvözöllek</string>
+    <string name="defaultUser">Felhasználó</string>
+    <string name="ExtraInfo">"          A beszédes lista alkalmazás használatához adj hozzá tételeket a listádhoz és én segítek neked az adatok felolvasásában.         El tudsz csendesíteni a távolságszenzorral, ha zavarlak.         A lista név szerinti rendezéséhez rázd meg a telefont egyszer. Ár szerinti rendezéshez rázd meg mégegyszer. A hozzáadási idő szerinti rendezéshez való visszatéréshez rázd meg harmadjára is a telefonodat.         Egyessével fel tudom neked olvasni a listán szereplő elemeket, ha rájuk kattintasz a listán belül.         A lista egy elemét annak oldalra kihúzásával tudod törölni.         Használd a gombokat a felhasználóváltáshoz, tételek hozzáadásához, a lista törléséhez és újrarendezéséhez.     "</string>
+    <string name="item_name_text">"A tétel neve "</string>
+    <string name="item_price_text">" és a költsége "</string>
+    <string name="item_price_unit">Forint</string>
+    <string name="no_users">Nincsenek még felhasználók.</string>
+    <string name="state_pre">"A lista elemei átrendezve "</string>
+    <string name="tts_time">idő szerint</string>
+    <string name="tts_name">név szerint</string>
+    <string name="tts_price">ár szerint</string>
+    <string name="tts_quiet">Rendben, csendben maradok.</string>
+    <string name="empty_userName">A felhasználónév nem lehet üres!</string>
+    <string name="empty_itemName">A tétel neve nem lehet üres!</string>
+    <string name="empty_itemPrice">A tétel ára nem lehet üres!</string>
+    <string name="log_in_help_string">Lépjen be a saját vagy egy lista nevéve:</string>
+    <string name="log_in_name">Név:</string>
+    <string name="log_in_username_hint">A neve</string>
+    <string name="login_button_text">Belép</string>
+    <string name="existing_users_text">Már létező felhasználók:</string>
+    <string name="clear_user_button_text">Törlés</string>
+    <string name="cancel_button_text">Mégse</string>
+    <string name="itemName_hint_text">A tétel neve</string>
+    <string name="add_item_button_text">Ment</string>
+    <string name="item_data_text">A tétel adatai:</string>
+    <string name="item_name_text_Activity">Név:</string>
+    <string name="item_price_hint">A tétel ára</string>
+    <string name="item_price_text_Activity">Ár:</string>
+    <string name="title_text_help">Hangos lista</string>
+    <string name="change_user_button_text">Kijelentkezés</string>
+    <string name="add_button_main_text">Új</string>
+    <string name="sort_button_main_text">Rendez</string>
+    <string name="clear_button_main_text">Töröl</string>
+    <string name="itemlayout_name_text">Név:</string>
+    <string name="itemlayout_name_data">tételnév</string>
+    <string name="itemlayout_price_text">tételár</string>
+    <string name="itemlayout_price_data">Ár:</string>
+</resources>
